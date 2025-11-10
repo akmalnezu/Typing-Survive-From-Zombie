@@ -1,0 +1,98 @@
+# =========================
+# Unity
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+sysinfo.txt
+
+# Cache & generated data
+[Pp]ackages/com.unity.package-manager.cache/
+[Pp]ackages/com.unity.*.cache/
+
+# IDE & Build Tools
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Build output
+[Bb]uild/
+[Bb]uilds/
+[Oo]utput/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# Plastic / Collaborate
+.collab/
+.PlasticSCM/
+
+# Unity Cloud Build
+UnityCloudBuildManifest.json
+
+# Crashlytics / Analytics
+*.clog
+*.crash
+.crashlytics/
+.analytics/
+
+# =========================
+# Git LFS (large assets)
+# =========================
+# These will be tracked by LFS, not Git directly
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.tif
+*.psd
+*.mp4
+*.mov
+*.fbx
+*.obj
+*.blend
+*.wav
+*.mp3
+*.ogg
+*.ttf
+*.prefab
+*.unity
+*.asset
+
+# =========================
+# Keep meta files (important!)
+# =========================
+!/[Aa]ssets//*.meta
+!/[Pp]rojectSettings//*.meta
+!/[Pp]ackages//*.meta

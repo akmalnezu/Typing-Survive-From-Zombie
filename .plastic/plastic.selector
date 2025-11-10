@@ -1,0 +1,4 @@
+repository "Typing Game/Typing Survive From Zombie@1375645389307@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7956536b392e7824cb80edccd3659ff7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wordPrefab: {instanceID: 0}
+  - wordCanvas: {instanceID: 0}
+  - tombolUlang: {fileID: 7800919182541324929, guid: e6625d9d4c938d64c88e0b49c5621701, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
